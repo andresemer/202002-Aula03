@@ -1,0 +1,21 @@
+body{
+    margin: 2px;
+    padding: 10px;
+
+    background-color: black;
+
+    color: white;
+
+    text-shadow: blue 3px 3px 3px;
+}
+
+#enviar_texto{
+    background-color: blue;
+    color: white ;
+}
+
+#texto{
+
+    border: solid 4px blue;
+
+}
